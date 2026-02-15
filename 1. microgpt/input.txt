@@ -1,0 +1,1 @@
+/Users/amaljoe/Desktop/Workspace/AI/LLMs from first principles/data/input.txt
